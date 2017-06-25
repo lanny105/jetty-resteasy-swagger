@@ -106,6 +106,21 @@
       <artifactId>asm-util</artifactId>
       <version>3.3.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.eclipse.jetty.aggregate</groupId>
+      <artifactId>jetty-all-server</artifactId>
+      <version>8.1.12.v20130726</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.jetty</groupId>
+      <artifactId>jetty-util</artifactId>
+      <version>9.3.5.v20151012</version>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.jetty.aggregate</groupId>
+      <artifactId>jetty-all-server</artifactId>
+      <version>8.1.12.v20130726</version>
+    </dependency>
 
   </dependencies>
   <build>
